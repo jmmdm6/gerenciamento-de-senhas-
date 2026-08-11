@@ -1,14 +1,14 @@
-🔐 Gerenciador de Senhas
+# 🔐 Gerenciador de Senhas
 
 Um gerenciador de senhas desenvolvido em Python para armazenar e consultar senhas de forma segura utilizando criptografia.
 
-📌 Sobre o projeto
+## 📌 Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos de Python, manipulação de arquivos, funções e criptografia.
 
 O sistema permite cadastrar serviços, usuários e senhas, armazenando as senhas de forma criptografada.
 
- 🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - 🔐 Criptografia das senhas
 - ➕ Adicionar novas senhas
@@ -17,14 +17,14 @@ O sistema permite cadastrar serviços, usuários e senhas, armazenando as senhas
 - 🔑 Geração automática da chave de criptografia
 - 💾 Armazenamento dos dados em arquivo
 
- 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - Python
 - Biblioteca Cryptography
 - Fernet
 - Manipulação de arquivos
 
- 📂 Estrutura do projeto
+## 📂 Estrutura do projeto
 
 ```text
 gerenciamento_senhas/
